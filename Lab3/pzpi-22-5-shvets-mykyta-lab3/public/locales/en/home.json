@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "Welcome to Access Management System",
+    "subtitle": "Securely manage and track campus access for students and staff.",
+    "login": "Log In",
+    "continueGuest": "Continue as Guest"
+  },
+  "features": {
+    "manageAccess": {
+      "title": "Manage Access",
+      "description": "Control entry permissions for your campus zones."
+    },
+    "viewPermissions": {
+      "title": "View Permissions",
+      "description": "Easily see your current access rights."
+    },
+    "accessHistory": {
+      "title": "Access History",
+      "description": "Monitor your past access events."
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Get insights into campus traffic."
+    }
+  },
+  "support": {
+    "title": "Support",
+    "contact": "Need help? Contact our support team:",
+    "emailLabel": "Email:",
+    "email": "support@accessmgmt.example.com",
+    "phoneLabel": "Phone:",
+    "phone": "+1 (800) 123-4567"
+  },
+  "footer": {
+    "rights": "© {{year}} Access Management System. All rights reserved."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "total": "Разом",
+    "granted": "Дозволено",
+    "denied": "Заборонено",
+    "today": "Сьогодні"
+  },
+  "filter": {
+    "searchPlaceholder": "Пошук точки…",
+    "from": "Від",
+    "to": "До",
+    "status": "Статус",
+    "all": "Усі"
+  },
+  "columns": {
+    "date": "Дата",
+    "time": "Час",
+    "point": "Точка",
+    "reason": "Причина",
+    "status": "Статус"
+  },
+  "status": {
+    "granted": "Дозволено",
+    "denied": "Заборонено"
+  },
+  "noData": "Записи відсутні.",
+  "pagination": {
+    "rowsPerPage": "Рядків на сторінці:",
+    "display": "{{start}}–{{end}} з {{total}}"
+  }
+}

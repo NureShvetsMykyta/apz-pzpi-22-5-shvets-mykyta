@@ -1,0 +1,24 @@
+{
+  "sidebar": {
+    "title": "Зони",
+    "search": "Пошук зон…",
+    "allZones": "Усі зони"
+  },
+  "page": {
+    "title": "Мої права"
+  },
+  "card": {
+    "status": {
+      "granted": "Дозволено",
+      "denied": "Заборонено"
+    }
+  },
+  "duration": {
+    "title": "Тривалість доступу"
+  },
+  "details": {
+    "searchPlaceholder": "Пошук кімнат…",
+    "noRooms": "Немає доступних кімнат у цій зоні.",
+    "close": "Закрити"
+  }
+}

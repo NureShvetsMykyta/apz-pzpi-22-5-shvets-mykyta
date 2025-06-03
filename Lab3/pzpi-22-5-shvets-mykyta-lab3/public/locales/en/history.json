@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "total": "Total",
+    "granted": "Granted",
+    "denied": "Denied",
+    "today": "Today"
+  },
+  "filter": {
+    "searchPlaceholder": "Search point…",
+    "from": "From",
+    "to": "To",
+    "status": "Status",
+    "all": "All"
+  },
+  "columns": {
+    "date": "Date",
+    "time": "Time",
+    "point": "Access Point",
+    "reason": "Reason",
+    "status": "Status"
+  },
+  "status": {
+    "granted": "Granted",
+    "denied": "Denied"
+  },
+  "noData": "No records found.",
+  "pagination": {
+    "rowsPerPage": "Rows per page:",
+    "display": "{{start}}–{{end}} of {{total}}"
+  }
+}

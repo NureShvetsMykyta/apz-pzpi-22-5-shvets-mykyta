@@ -1,0 +1,14 @@
+{
+  "home":         "Home",
+  "history":      "History",
+  "permissions":  "Permissions",
+  "settings":     "Settings",
+  "dashboard":    "Dashboard",
+  "users":        "Users",
+  "campus":       "Campus",
+  "accessPoints": "Access Points",
+  "accessLogs":   "Access Logs",
+  "accessRules":  "Access Rules",
+  "reports":      "Reports",
+  "analytics":    "Analytics"
+}

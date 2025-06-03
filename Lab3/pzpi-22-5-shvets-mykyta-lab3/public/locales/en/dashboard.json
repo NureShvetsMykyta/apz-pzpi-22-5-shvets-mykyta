@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome, {{name}}!",
+  "stats": {
+    "accessLevel": "Access Level",
+    "visits7": "Visits (7 days)",
+    "accessRules": "Access Rules"
+  },
+  "recent": {
+    "title": "Recent Visits",
+    "point": "Point",
+    "date": "Date",
+    "noData": "No recent activity"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "home":         "Головна",
+  "history":      "Історія",
+  "permissions":  "Права",
+  "settings":     "Налаштування",
+  "dashboard":    "Панель",
+  "users":        "Користувачі",
+  "campus":       "Кампус",
+  "accessPoints": "Точки доступу",
+  "accessLogs":   "Журнали доступу",
+  "accessRules":  "Правила доступу",
+  "reports":      "Звіти",
+  "analytics":    "Аналітика"
+}
